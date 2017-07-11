@@ -4,5 +4,6 @@ main()
 printf("HelloWorld...\n");
 printf("Hello...\n");
   scanf("%d",&n);
+  //heloooo
   printf("\n");
 }
