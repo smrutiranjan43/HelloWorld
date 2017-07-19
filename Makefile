@@ -9,3 +9,9 @@ sub.o:sub.c main.c
 
 mul.o:mul.c main.c
 	cc -c mul.c -o mul.o
+
+clean:
+	rm main
+	rm add
+	rm sub
+	rm mul
