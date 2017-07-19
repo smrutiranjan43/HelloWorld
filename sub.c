@@ -1,3 +1,4 @@
+#include<stdio.h>
 void sub()
 {
 int a=4,b=6;
