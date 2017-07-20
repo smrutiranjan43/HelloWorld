@@ -11,7 +11,6 @@ mul.o:mul.c main.c
 	cc -c mul.c -o mul.o
 
 clean:
-	rm main
-	rm add
-	rm sub
-	rm mul
+	rm add.o
+	rm sub.o
+	rm mul.o
